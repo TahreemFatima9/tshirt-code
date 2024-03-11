@@ -1,0 +1,104 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: sans-serif;
+}
+.card{
+    display: flex;
+    margin-top: 22px;
+}
+.left img{
+    width: 366px;
+    margin-inline:32px ;
+    cursor: pointer;
+}
+.card .img img{
+    width: 74px;
+    margin-left: 22px;
+    cursor: pointer;
+}
+ 
+.card .right {
+    margin-top: 11px;
+}
+.right h3{
+    margin-top: 11px;
+    color: gray;
+}
+.right h1{
+    margin-top: 11px;
+}
+.right i{
+    margin-top: 11px;
+    color: green;
+}
+.right h4{
+    margin-top: 11px;
+}
+.right p{
+    margin-top: 11px;
+}
+.right button{
+    width: 200px;
+    height: 50px;
+    background-color: rgb(21, 100, 23);
+    color: white;
+    font-size: 25px;
+    border: none;
+    margin-top: 22px;
+    margin-inline: 22px;
+    font-weight: 600;
+    margin-left: 1px;
+    border-radius: 15px;
+}
+.right button:hover{
+    background-color: rgb(51, 0, 255);
+    cursor: pointer;
+    box-shadow: 20px 20px 30px rgba(0, 0, 0, 0.309);
+}
+
+#prodetails2 h2{
+      font-weight: bolder;
+      font-style: sans-serif;
+      margin: 50px;
+  }
+  
+  .details{
+      margin: 50px;
+      display: flex;
+      margin-top: 20px;
+  }
+  
+  .model{
+      width: 500px;
+  }
+  .model h4{
+      font-weight: bold;
+  }
+  .model h6{
+      font-weight: 400;
+  }
+  .brand-type{
+      width: 500px;
+  }
+  .brand-type h4{
+      font-weight: bold;
+  }
+  .brand-type h6{
+      font-weight: 400;
+  }
+  .additional-function {
+      width: 500px;
+  }
+  .additional-function h4{
+      font-weight: bold;
+  }
+  .additional-function h6{
+      font-weight: 400;
+  }
+  i{
+      background-color: #fff;
+      color: black;
+      width: 500px;
+  }
+  
